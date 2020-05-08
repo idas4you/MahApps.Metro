@@ -535,7 +535,7 @@
     <Style x:Key="SquareButtonStyle" TargetType="{x:Type ButtonBase}">
         <Setter Property="Background" Value="{DynamicResource WhiteBrush}" />
         <Setter Property="BorderBrush" Value="{DynamicResource BlackBrush}" />
-        <Setter Property="BorderThickness" Value="2" />
+        <Setter Property="BorderThickness" Value="1" />
         <Setter Property="Controls:ControlsHelper.ContentCharacterCasing" Value="Lower" />
         <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}" />
         <Setter Property="FontWeight" Value="SemiBold" />
